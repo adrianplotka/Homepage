@@ -4,7 +4,7 @@
 
 .footer {
     text-align: center;
-    background-color: rgb(0, 0, 0);
+    background-color: teal;
     border: 5px solid#312f2f;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
@@ -12,5 +12,5 @@
 }
 
 .footer__link {
-    color: #e6b30a;
+    color: white;
 }

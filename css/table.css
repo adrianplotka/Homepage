@@ -16,8 +16,9 @@
 }
 
 .table__header {
-    background-color: #374bbb;
+    background-color: teal;
     color: white;
+    border-radius: 5px;
 }
 
 .table__row:hover {

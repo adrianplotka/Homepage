@@ -1,0 +1,18 @@
+.navigation {
+    border: px solid black;
+    display: flex;
+    justify-content: auto;
+    align-items: center;
+    align-content: flex-start;
+}
+
+.navigation__item {
+    padding: 20px;
+    background: teal;
+    color: white;
+    margin: 5px;
+    flex-grow: 1;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+}
