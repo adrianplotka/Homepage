@@ -1,0 +1,15 @@
+.image {
+    background-image: url("../image/image.jpg");
+    max-width: 900px;
+    height: 500px;
+    display: block;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.image__header {
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
