@@ -16,3 +16,8 @@ html {
     line-height: 2;
     font-size: 20px;
 }
+
+.dark {
+    background-color: #797979;
+}
+
