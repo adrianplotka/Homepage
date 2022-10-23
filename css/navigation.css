@@ -24,7 +24,3 @@
 .navigation__item:active {
     background-color: hsl(180, 100%, 15%);
 }
-
-.navigation__item--button {
-    border: none;
-}

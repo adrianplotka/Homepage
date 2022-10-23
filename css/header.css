@@ -11,10 +11,19 @@
 }
 
 .header__button {
-    background-color: white;
+    background-color: hsl(180, 100%, 25%);
+    color: white ;
     border-radius: 10px;
-    border: 3px solid black;
-    padding: 5px;
-    margin: 10px;
+    border: 2px solid white;
+    /* border: 3px solid black; */
+    padding: 10px;
+    box-shadow: 10px 5px 15px 3px rgb(0, 0, 0);
+}
 
+.header__button:hover {
+    background-color: hsl(180, 100%, 20%);
+}
+
+.header__button:active {
+    background-color: hsl(180, 100%, 15%);
 }
