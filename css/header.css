@@ -1,0 +1,11 @@
+.header {
+    background-color: teal;
+    margin: 0px 10px 5px 10px;
+    border-radius: 15px;
+}
+
+.header__text {
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
